@@ -130,7 +130,7 @@ This project is licensed under the **MIT License**. Check out the full license t
 
 ## 👨‍💻 Contact
 
-**Author**: [Kunal Agarwal](https://github.com/kagarwal1811)  
+**Author**: [Kavya Agarwal](https://github.com/kagarwal1811)  
 **Repository**: [Pdf_Extractor](https://github.com/kagarwal1811/Pdf_Extractor/tree/master)
 
 > If you have any questions, suggestions, or just want to say hi, feel free to open an issue or reach out through GitHub!
