@@ -1,5 +1,3 @@
-Here’s an enhanced, more visually appealing README with emojis and styling. You can copy and paste this into your `README.md` file and adjust as needed:
-
 ---
 
 # 🏦 PDF Bank Statement Table Extractor
